@@ -6,4 +6,4 @@ Disquse Clone :
  
  
 Like to see my website \
-[Try it](http://disqus.epizy.com/)
+[Try it](https://disqus-clone.netlify.app/)
